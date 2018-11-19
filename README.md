@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sajadhaja/DailyTradeReporting.svg?branch=master)](https://travis-ci.org/sajadhaja/DailyTradeReporting)
+[![Build Status](https://travis-ci.org/sajadhaja/TradeReportEngine.svg?branch=master)](https://travis-ci.org/sajadhaja/TradeReportEngine)
 
 [![Coverage Status](https://coveralls.io/repos/github/sajadhaja/TradeReporting/badge.svg?branch=master)](https://coveralls.io/github/sajadhaja/TradeReporting?branch=master) 
 
