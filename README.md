@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/sajadhaja/TradeReportEngine.svg?branch=master)](https://travis-ci.org/sajadhaja/TradeReportEngine)
 
-[![Coverage Status](https://coveralls.io/repos/github/sajadhaja/TradeReporting/badge.svg?branch=master)](https://coveralls.io/github/sajadhaja/TradeReporting?branch=master) 
+[![Coverage Status](https://coveralls.io/repos/github/sajadhaja/TradeReportEngine/badge.svg?branch=master)](https://coveralls.io/github/sajadhaja/TradeReportEngine?branch=master)
 
 # TradeReportEngine
 Application which generates Trade Reports
